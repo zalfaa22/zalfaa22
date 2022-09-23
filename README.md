@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Zalfa
 
+🔭 I’m currently studying on SMK Telkom Malang
+🌱 I’m currently learning PHP, and Node.js
 <!--
 **zalfaa22/zalfaa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
