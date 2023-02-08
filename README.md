@@ -1,17 +1,10 @@
-### Hi 👋, I'm Zalfa
-
 <div align="center">
 
   
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Fadhila Zalfa Alisya! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Fadhila+Zalfa+Alisya!;)](https://git.io/typing-svg)
-
-
+<br>
 <div align="center">
   <h3>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><h3>
   
@@ -30,19 +23,16 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-    </div>
-    <br>
-    <div align="center">
+</div>
     
-
 <br>
-<br>
-  
+<div align="center">
+      
 <h3>📫 Connect With Me:</h3>
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. <br>
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!!
- 
- 
+  
+<br>
 <br>
 
 [![Instagram Badge](https://img.shields.io/badge/-zalfalisya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zalfalisya/)](https://www.instagram.com/zalfalisya/) [![Gmail Badge](https://img.shields.io/badge/-zalfa.alisya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalfa.alisya@gmail.com)](mailto:zalfa.alisya@gmail.com)
